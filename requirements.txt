@@ -1,5 +1,4 @@
 moviepy==1.0.3
 pillow
-gTTS
 pydub
 numpy
